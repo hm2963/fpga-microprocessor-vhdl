@@ -79,7 +79,3 @@ This project was developed as the final lab project for **Advanced Digital Logic
 This project was created for academic purposes. You may use it for educational reference.
 
 ---
-
-**Author:** Helin Mazı  
-**Course:** ENGR–UH 2310 — Advanced Digital Logic  
-**Semester:** Spring 2024  
